@@ -1,0 +1,14 @@
+VN_Brand_Gallery 0.5
+VN_Brand_BP_Start 2.66
+VN_Brand_Features 0.98
+VN_Brand_Colorizer 1.26
+VN_Brand_Offers_Page 0.13
+VN_Brand_Model_Compare 0.81
+VN_Brand_Vehicle_Homepage 0.17
+VN_Brand_Find_Dealer_(LAD) 0.35
+VN_Brand_Video_Start 1.23
+VN_Brand_Video_Finish 0.84
+VN_Brand_Opt_in 5.61
+VN_Brand_Test_Drive 11.39
+VN_Brand_BP_Finish 8.09
+VN_Brand_Brochure_Download 4.94
